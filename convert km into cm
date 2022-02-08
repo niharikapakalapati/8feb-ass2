@@ -1,0 +1,4 @@
+# to convert kilometer into centimeter
+kilometer=float(input('enter lenght in kilometer:'))
+centimeter=100000*kilometer;
+print('the lenght in centimeter',centimeter);
